@@ -1,1 +1,1 @@
-[https://Penny0507.github.io/skybox/skybox.html]
+[https://Penny0507.github.io/skybox/skybox/skybox.html]
